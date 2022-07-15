@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/waddle/static/css/main.71fdd606.css",
+    "main.css": "/waddle/static/css/main.5f5f17bb.css",
     "main.js": "/waddle/static/js/main.17149c61.js",
     "static/js/787.76b626ef.chunk.js": "/waddle/static/js/787.76b626ef.chunk.js",
     "index.html": "/waddle/index.html",
-    "main.71fdd606.css.map": "/waddle/static/css/main.71fdd606.css.map",
+    "main.5f5f17bb.css.map": "/waddle/static/css/main.5f5f17bb.css.map",
     "main.17149c61.js.map": "/waddle/static/js/main.17149c61.js.map",
     "787.76b626ef.chunk.js.map": "/waddle/static/js/787.76b626ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71fdd606.css",
+    "static/css/main.5f5f17bb.css",
     "static/js/main.17149c61.js"
   ]
 }
