@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/waddle/static/css/main.5f5f17bb.css",
-    "main.js": "/waddle/static/js/main.a70f8f3e.js",
-    "static/js/787.76b626ef.chunk.js": "/waddle/static/js/787.76b626ef.chunk.js",
-    "index.html": "/waddle/index.html",
-    "main.5f5f17bb.css.map": "/waddle/static/css/main.5f5f17bb.css.map",
-    "main.a70f8f3e.js.map": "/waddle/static/js/main.a70f8f3e.js.map",
-    "787.76b626ef.chunk.js.map": "/waddle/static/js/787.76b626ef.chunk.js.map"
+    "main.css": "/static/css/main.5f5f17bb.css",
+    "main.js": "/static/js/main.e53d8318.js",
+    "static/js/787.76b626ef.chunk.js": "/static/js/787.76b626ef.chunk.js",
+    "index.html": "/index.html",
+    "main.5f5f17bb.css.map": "/static/css/main.5f5f17bb.css.map",
+    "main.e53d8318.js.map": "/static/js/main.e53d8318.js.map",
+    "787.76b626ef.chunk.js.map": "/static/js/787.76b626ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f5f17bb.css",
-    "static/js/main.a70f8f3e.js"
+    "static/js/main.e53d8318.js"
   ]
 }
