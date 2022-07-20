@@ -1,1 +1,1 @@
-a gravity falls wordle i guess
+A Wordle game based on Gravity Falls
